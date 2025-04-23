@@ -49,5 +49,5 @@ To understand how different people make investment decisions so we can help crea
 Investment Purpose
 
 ## Data Visualization 
-![Table](https://github.com/Ola-ykay/Investment-Preference/blob/main/Investment_table.png)
+![Table](https://github.com/Ola-ykay/Investment-Preference/blob/main/table-investment.png)
 ![Dashboard](https://github.com/Ola-ykay/Investment-Preference/blob/main/investment_dashboard.png)
