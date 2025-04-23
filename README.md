@@ -50,4 +50,4 @@ Investment Purpose
 
 ## Data Visualization 
 ![Table](https://github.com/Ola-ykay/Investment-Preference/blob/main/table-investment.png)
-![Dashboard](https://github.com/Ola-ykay/Investment-Preference/blob/main/investment_dashboard.png)
+![Dashboard](https://github.com/Ola-ykay/Investment-Preference/blob/main/dashboard-investment.png)
