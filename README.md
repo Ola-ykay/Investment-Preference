@@ -40,9 +40,9 @@ To understand how different people make investment decisions so we can help crea
  ## Insights
 - Investment Avenue by Gender
 - Investment Preference by Age Category
-- Factors Influencing Investment across Age Category
-- Primary Savings Objectives Based on Investment Duration
-- Reasons for Investing in Mutual Funds by Expected Return
+- Investment Factors by Age Category
+- Savings Objectives Based by Investment Duration
+- Mutual Funds by Expected Return
 
 
  Slicers:
